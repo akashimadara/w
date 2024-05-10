@@ -3,7 +3,7 @@
 module.exports = {
     app: {
         px: '+',
-        token: 'MTIzODQ2MDI1Mzk5NDA5NDcwNA.GLWt0A.X_zersnOz19WlYKdkYKdlRJ_j76so4EQ2CiecM',
+        token: 'process.env.token;',
         owners: ["1184445951918755861"],
         funny: '1225189473659256915',
         color: 'Blue',
